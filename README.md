@@ -1,16 +1,68 @@
-## Hi there 👋
+## Introduce
+**Name:** Wonhyeok CHOI  
+**Nickname:** Sooboon  
+**Location:** Uijeongbu-si, Gyeonggi-do, Republic of Korea   
 
-<!--
-**Soo-boon/Soo-boon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus on
+:floppy_disk: `Digital Forensic`    
+:robot: `AI`  
 
-Here are some ideas to get you started:
+## Contact
+**E-mail:**  <a href="mailto:whchoioloz@gmail.com"><img src="https://img.shields.io/badge/whchoioloz@gmail.com-EA4335.svg?&logo=Gmail&logoColor=white"/></a>   
+**Site:**  <a href="https://sooboon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A.svg?&logo=Tistory&logoColor=white"/></a> <a href="https://velog.io/@sooboon/posts"><img src="https://img.shields.io/badge/velog-20C997.svg?&logo=velog&logoColor=white"/></a>   
+**Github:**  <a href="https://github.com/Soo-boon"><img src="https://img.shields.io/badge/Github-181717.svg?&logo=Github&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Moto
+~~~
+" Never Regret. "
+" Wake up with determination, go to bed with satisfaction. "
+~~~
+
+## Education
+**Sungkonghoe University** (_Mar. 2020_)   
+B.E. degree in IT Convergence, Major In Information and Communication Engineering and Software Engineering Course   
+
+## Extracurricular activity
+**White Hat School 1st** (_Sep. 2023 - Mar. 2024_)   
+Certificated (General completion)
+- The latest information security training programs and technical mentoring for nurturing white hackers and information security talents.
+- Hosted by KITRI   
+
+## Project Experience
+**Volatility3 Plugin Development** (_May. 2025 - May. 2025_)   
+Team Member (TEAM. Digital Forensic Study)   
+- Develop Volatility3 plugin(findpid.py, mmname.py)
+- A Volatility 3 plugin that detects processes by process name, outputs their memory maps, and dumps them.
+- https://github.com/Digital-Forensic-Study/Volatility3-Plugin-Development   
+
+<br>
+
+**LDDC (Live Disk Data Collector)** (_Feb. 2024 - Feb. 2024_)   
+Team Member (TEAM. Digital Forensic Study)   
+- Batch script to extract and save volatile/non-volatile data from live disk state.   
+- https://github.com/Digital-Forensic-Study/LDDC_Batch_script   
+
+<br>
+
+**RegVision** (_Nov. 2023 - Dec. 2023_)   
+Project Manager (Team. For Vision at White Hat School 1st)   
+- Window Registry Analyzer created in Python focusing on user behavior analysis
+- https://github.com/Team-For-Vision-WHS-1st/RegVision   
+
+## Awards & Honors 
+### Honors   
+**Cheong-un Foundation Scholarship** (_Semester 1, 2025_)   
+Cheong-un Foundation (Full-ride scholarship)   
+- Awarded to nurture talent in northern Gyeonggi Province   
+
+<br>
+
+**Cheong-un Foundation Scholarship** (_Semester 2, 2024_)   
+Cheong-un Foundation (Full-ride scholarship)   
+- Awarded to nurture talent in northern Gyeonggi Province   
+
+<br>
+
+**Cheong-un Foundation Scholarship** (_Semester 2, 2023_)   
+Cheong-un Foundation (Full-ride scholarship)   
+- Awarded to nurture talent in northern Gyeonggi Province   

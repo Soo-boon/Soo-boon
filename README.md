@@ -16,22 +16,41 @@
 ~~~
 " Never Regret. "
 " Wake up with determination, go to bed with satisfaction. "
-~~~
-
+~~~   
+   
 ## Education
 **Sungkonghoe University** (_Mar. 2020_)   
 B.E. degree in IT Convergence, Major In Information and Communication Engineering and Software Engineering Course   
 
 ## Extracurricular activity
+**HDFLAB** (_Jun. 2025_)   
+Lab Member   
+- Digital Forensic Lab at HSPACE     
+
+<br>
+
+**Q.E.D.** (_Feb. 2025_)   
+Club President      
+- Sungkonghoe University Information Security Club Q.E.D.   
+
+<br>
+
 **White Hat School 1st** (_Sep. 2023 - Mar. 2024_)   
 Certificated (General completion)
 - The latest information security training programs and technical mentoring for nurturing white hackers and information security talents.
 - Hosted by KITRI   
 
+<br>
+
+**DEBUG** (_Sep. 2023 - Dec. 2024_)   
+Club Officer      
+- Sungkonghoe University Information Security Club DEBUG   
+- Dissolved   
+
 ## Project Experience
 **Volatility3 Plugin Development** (_May. 2025 - May. 2025_)   
 Team Member (TEAM. Digital Forensic Study)   
-- Develop Volatility3 plugin(findpid.py, mmname.py)
+- Develop Volatility3 plugin (findpid.py, mmname.py)
 - A Volatility 3 plugin that detects processes by process name, outputs their memory maps, and dumps them.
 - https://github.com/Digital-Forensic-Study/Volatility3-Plugin-Development   
 

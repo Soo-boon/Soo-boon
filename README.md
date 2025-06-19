@@ -19,17 +19,24 @@
 ~~~   
    
 ## Education
-**Sungkonghoe University** (_Mar. 2020_)   
+**Sungkonghoe University** (_Mar. 2020 - Present_)   
 B.E. degree in IT Convergence, Major In Information and Communication Engineering and Software Engineering Course   
 
 ## Extracurricular activity
-**HDFLAB** (_Jun. 2025_)   
-Lab Member   
+**Best of the Best 14th `Digital Forensic`** (_Jul. 2025 - Present_)   
+In training   
+- A next-generation security expert training program with advanced security expertise and creative problem-solving skills based on a proper sense of mission and ethics toward the country and society.
+- Next Generation Security Leader Training Program Hosted by KITRI   
+ 
+<br>
+
+**HDFLAB** (_Jun. 2025 - Present_)   
+Member   
 - Digital Forensic Lab at HSPACE     
 
 <br>
 
-**Q.E.D.** (_Feb. 2025_)   
+**Q.E.D.** (_Feb. 2025 - Present_)   
 Club President      
 - Sungkonghoe University Information Security Club Q.E.D.   
 
@@ -38,7 +45,7 @@ Club President
 **White Hat School 1st** (_Sep. 2023 - Mar. 2024_)   
 Certificated (General completion)
 - The latest information security training programs and technical mentoring for nurturing white hackers and information security talents.
-- Hosted by KITRI   
+- Next Generation Security Leader Training Program(Pre-BoB) Hosted by KITRI   
 
 <br>
 

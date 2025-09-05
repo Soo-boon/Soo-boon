@@ -77,18 +77,24 @@ Project Manager (Team. For Vision at White Hat School 1st)
 
 ## Awards & Honors 
 ### Honors   
+**Cheong-un Foundation Scholarship** (_Semester 2, 2025_)   
+Cheong-un Foundation (Half-tuition Scholarship)   
+- Awarded to nurture talent in northern Gyeonggi Province   
+
+<br>
+
 **Cheong-un Foundation Scholarship** (_Semester 1, 2025_)   
-Cheong-un Foundation (Full-ride scholarship)   
+Cheong-un Foundation (Full-ride Scholarship)   
 - Awarded to nurture talent in northern Gyeonggi Province   
 
 <br>
 
 **Cheong-un Foundation Scholarship** (_Semester 2, 2024_)   
-Cheong-un Foundation (Full-ride scholarship)   
+Cheong-un Foundation (Full-ride Scholarship)   
 - Awarded to nurture talent in northern Gyeonggi Province   
 
 <br>
 
 **Cheong-un Foundation Scholarship** (_Semester 2, 2023_)   
-Cheong-un Foundation (Full-ride scholarship)   
+Cheong-un Foundation (Full-ride Scholarship)   
 - Awarded to nurture talent in northern Gyeonggi Province   

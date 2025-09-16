@@ -1,4 +1,4 @@
-## Introduce
+## Introduction
 **Name:** Wonhyeok Choi  
 **Nickname:** Sooboon  
 **Location:** Uijeongbu-si, Gyeonggi-do, Republic of Korea   

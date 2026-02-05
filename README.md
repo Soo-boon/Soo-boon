@@ -59,7 +59,7 @@ Club Officer
 **Research on Multimedia-Based AI-Generated Content Verification Techniques and Development of a Detection Tool** (_Dec. 2025 - Present_)   
 Project Manager (Team. Heimdall)  
 - Web Service Name : Heimdall   
-- Developed an independent multimedia-based AI-generated content detection framework and provide a web service.
+- An independent multimedia-based AI-generated content detection framework provided as a web service.   
 - A student research project supported by the Sungkonghoe University Wooro Scholarship Foundation   
 - https://github.com/Pr0j3c7-Heimdall
 
@@ -67,8 +67,8 @@ Project Manager (Team. Heimdall)
 
 **Development of a Solution to Prevent Sensitive Information Leakage Within an Enterprise in an LLM/MCP Environment** (_Sep. 2025 - Dec. 2025_)   
 Team Member (Team. 될것같은데 at Best of the Best 14th Digital Forensic)  
-- Solution Name : Sentinel
-- A security solution, developed through independent integrated security framework research, to prevent sensitive information leakage in enterprise LLM/MCP environments.
+- Solution Name : Sentinel   
+- A security solution, developed through independent integrated security framework research, to prevent sensitive information leakage in enterprise LLM/MCP environments.   
 - https://github.com/BoB-Sentinel-Solution
 
 <br>

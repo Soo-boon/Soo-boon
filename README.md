@@ -5,6 +5,7 @@
 
 ## Focus on
 :floppy_disk: `Digital Forensic`    
+:mag_right: `Incident Response`   
 :robot: `AI`  
 
 ## Contact

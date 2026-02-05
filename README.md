@@ -21,7 +21,7 @@
    
 ## Education
 **Sungkonghoe University** (_Mar. 2020 - Present_)   
-B.E. degree in IT Convergence, Major In Information and Communication Engineering and Software Engineering Course   
+B.E. degree in IT Convergence, Major in Information and Communication Engineering and Software Engineering Course   
 
 ## Extracurricular activity
 **Best of the Best 14th `Digital Forensic`** (_Jul. 2025 - Present_)   

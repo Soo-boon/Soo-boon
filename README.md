@@ -58,7 +58,7 @@ Club Officer
 ## Project Experience
 **Research on Multimedia-Based AI-Generated Content Verification Techniques and Development of a Detection Tool** (_Dec. 2025 - Present_)   
 Project Manager (Team. Heimdall)  
-- Web Service Name : Heimdall   
+- Web Service Name: Heimdall   
 - An independent multimedia-based AI-generated content detection framework provided as a web service.   
 - A student research project supported by the Sungkonghoe University Wooro Scholarship Foundation   
 - https://github.com/Pr0j3c7-Heimdall
@@ -67,7 +67,7 @@ Project Manager (Team. Heimdall)
 
 **Development of a Solution to Prevent Sensitive Information Leakage Within an Enterprise in an LLM/MCP Environment** (_Sep. 2025 - Dec. 2025_)   
 Team Member (Team. 될것같은데 at Best of the Best 14th Digital Forensic)  
-- Solution Name : Sentinel   
+- Solution Name: Sentinel   
 - A security solution, developed through independent integrated security framework research, to prevent sensitive information leakage in enterprise LLM/MCP environments.   
 - https://github.com/BoB-Sentinel-Solution
 
@@ -83,7 +83,7 @@ Team Member (Team. Digital Forensic Study)
 
 **Development of a Live Disk Data Collector** (_Feb. 2024 - Feb. 2024_)   
 Team Member (Team. Digital Forensic Study)   
-- Tool Name : LDDC(Live Disk Data Collector)   
+- Tool Name: LDDC(Live Disk Data Collector)   
 - Batch script to extract and save volatile/non-volatile data from live disk state.   
 - https://github.com/Digital-Forensic-Study/LDDC_Batch_script   
 
@@ -91,7 +91,7 @@ Team Member (Team. Digital Forensic Study)
 
 **Development of a Windows Registry Analyzer Focused on User Behavior Analysis** (_Nov. 2023 - Dec. 2023_)   
 Project Manager (Team. For Vision at White Hat School 1st)   
-- Analyzer Name : RegVision   
+- Analyzer Name: RegVision   
 - Window Registry Analyzer created in Python focusing on user behavior analysis   
 - https://github.com/Team-For-Vision-WHS-1st/RegVision   
 

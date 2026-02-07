@@ -15,8 +15,7 @@
 
 ## Moto
 ~~~
-" Never Regret. "
-" Wake up with determination, go to bed with satisfaction. "
+" No regrets. "
 ~~~   
    
 ## Education

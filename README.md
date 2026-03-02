@@ -23,8 +23,8 @@
 B.E. degree in IT Convergence, Major in Information and Communication Engineering and Software Engineering Course   
 
 ## Extracurricular activity
-**Best of the Best 14th `Digital Forensic`** (_Jul. 2025 - Present_)   
-In training   
+**Best of the Best 14th `Digital Forensic`** (_Jul. 2025 - Feb. 2026_)   
+Certificated      
 - A next-generation security expert training program with advanced security expertise and creative problem-solving skills based on a proper sense of mission and ethics toward the country and society.
 - Next Generation Security Leader Training Program Hosted by KITRI and KISA      
  

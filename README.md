@@ -37,8 +37,9 @@ Member
 <br>
 
 **Q.E.D.** (_Feb. 2025 - Present_)   
-Club President      
+Mentor      
 - Sungkonghoe University Information Security Club Q.E.D.   
+- Served as Club President from _Feb. 2025_ to _Dec. 2025_.      
 
 <br>
 

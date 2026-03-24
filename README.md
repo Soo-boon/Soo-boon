@@ -15,7 +15,7 @@
 
 ## Moto
 ~~~
-" No regrets. "
+"No regrets."
 ~~~   
    
 ## Education
@@ -100,7 +100,14 @@ Project Manager (Team. For Vision at White Hat School 1st)
 
 ## Awards & Honors   
 ### Awards   
-**Korea Internet & Security Agency (KISA) President Award / 2nd place** (_Nov. 2025_)   
+**Top Excellence Award / 2nd Place** (_Mar. 2026_)   
+2026 AI Idea Contest: Drawing the Future with Data   
+- Hosted by Korea Management Association (KMA)   
+- Organized by Smart Human Resources Development Institute (SMHRD) and AI Campus Co., Ltd.   
+
+<br>
+
+**Korea Internet & Security Agency (KISA) President Award / 2nd Place** (_Nov. 2025_)   
 The 12th Software Development Security Competition   
 - Co-hosted by the Ministry of Education, the Ministry of Science and ICT, and the Ministry of the Interior and Safety (South Korea)   
 - Organized by the National Research Foundation of Korea (NRF) and the Korea Internet & Security Agency (KISA), in partnership with the Data Security & Utilization COSS Consortium (South Korea, 2025)       

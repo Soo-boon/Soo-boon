@@ -96,7 +96,7 @@ Project Manager (Team. For Vision at White Hat School 1st)
 - https://github.com/Team-For-Vision-WHS-1st/RegVision   
 
 ## Publications
-1. **Won-Hyeok Choi**, Ye-Eun Kim, Jong-Beom Park, Ja-Woon Song, Jae-Yong Lee, and Jong-Hyun Lee. “A Detection Framework for Text-to-Image Generated Images Considering Operational Environments.” Proceedings of the Korea Institute of Information Security and Cryptology (KIISC) Summer Conference (CISC-S), Vol. 36, No. 1, pp. 1054–1056, May. 8, 2026.
+1. **Won-Hyeok Choi**, Ye-Eun Kim, Jong-Beom Park, Ja-Woon Song, Jae-Yong Lee, and Jong-Hyun Lee. “A Detection Framework for Text-to-Image Generated Images Considering Operational Environments.” _Proceedings of the Korea Institute of Information Security and Cryptology (KIISC) Summer Conference (CISC-S)_, Vol. 36, No. 1, pp. 1054–1056, May. 8, 2026.
 
 2. Min-Seo Kim, Ha-Eun Park, Kang-Ho Lee, Si-On Lee, **Won-Hyeok Choi**, and Gyeong-Jae Park. “Research on an Integrated Security Framework for Preventing Sensitive Information Leakage in Enterprise Environments Using LLM and MCP.” _Proceedings of the Korea Institute of Information Security and Cryptology (KIISC) Winter Conference (CISC-W)_, Vol. 35, No. 2, pp. 372–374, Nov. 28, 2025.
 
